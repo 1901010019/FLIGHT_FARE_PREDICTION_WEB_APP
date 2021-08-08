@@ -28,7 +28,8 @@ If you are using a lower version of Python you can upgrade using the pip package
 ensuring you have the latest version of pip. To install the required packages and libraries, 
 run this command in the project directory after <a href='https://www.howtogeek.com/451360/how-to-clone-a-github-repository/'>cloning</a> the repository:
 
-<div class="highlight highlight-source-shell position-relative"><pre>pip install -r requirements.txt</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+<pre>pip install -r requirements.txt</pre>
+<div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pip install -r requirements.txt
 " tabindex="0" role="button">
       <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-clippy js-clipboard-clippy-icon m-2">
@@ -38,4 +39,4 @@ run this command in the project directory after <a href='https://www.howtogeek.c
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
     </clipboard-copy>
-  </div></div>
+  </div>
