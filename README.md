@@ -1,6 +1,8 @@
 # FLIGHT_FARE_PREDICTION_WEB_APP
+</u>
 
-### table of content
+### Table of content
+</u>
 
 * Demo
 * Overview
@@ -11,13 +13,15 @@
 * Future scope of project
 * Demo
 
-<u><h3>Demo</h3></u>
+<h3>Demo</h3>
+</u>
 
 ### Overview
 
 This is a Flask web App which predicts fare of a flight
 
 ### Installation
+</u>
 
 The Code is written in Python 3.6.10. If you don't have Python installed you can find it <a href='https://www.python.org/downloads/'>here</a>. 
 If you are using a lower version of Python you can upgrade using the pip package, 
