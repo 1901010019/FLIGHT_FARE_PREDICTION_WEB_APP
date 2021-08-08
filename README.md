@@ -28,3 +28,4 @@ If you are using a lower version of Python you can upgrade using the pip package
 ensuring you have the latest version of pip. To install the required packages and libraries, 
 run this command in the project directory after <a href='https://www.howtogeek.com/451360/how-to-clone-a-github-repository/'>cloning</a> the repository:
 
+<pre>pip install -r requirements.txt</pre>
